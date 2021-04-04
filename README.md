@@ -29,11 +29,12 @@ To seed the database with users, Video Games, users and reviews with data from t
 
 > The API Link : [https://play-area.herokuapp.com/](https://play-area.herokuapp.com/)
 
+# Documentation
+
 > Extensive documentation with examples : [Here](https://documenter.getpostman.com/view/13825305/TzCQaRcs#51f35aa5-3a79-4d2a-8840-711930b932e3)
 
 For documentation choose an envirenement for the api docs
 
-> " APi Video Games prod "
 
 ```
 -Version: 1.2.0
